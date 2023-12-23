@@ -1,2 +1,2 @@
 # ACM-python
-Collecting some classic algorithms
+Collecting some classic algorithms.
